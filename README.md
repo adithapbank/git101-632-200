@@ -1,7 +1,6 @@
 # git101-632-200
 
-> Bank Adithap
-
+> adithapbank
 > Name: Adithap Panichprawat
 > * 1
 > * 2
