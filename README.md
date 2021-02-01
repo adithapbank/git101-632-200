@@ -3,6 +3,6 @@
 > Bank Adithap
 
 # Hello
-Name Bank
+Name: Adithap Panichprawat
 * 1
 * 2
